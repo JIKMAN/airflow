@@ -1,5 +1,7 @@
 # Airflow-study
 
+![untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edefa2d6-55b8-489a-9c11-831aa5476cde/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T140230Z&X-Amz-Expires=86400&X-Amz-Signature=a13543f91a455cfc404a696748ecaede52211828421b7f8bdc0285181ab09701&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
 ## 💡mastering DAGs
 
 ### execution_date 의 이해
